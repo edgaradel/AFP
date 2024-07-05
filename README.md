@@ -14,14 +14,15 @@ Coding Steps:
 
 1. Imports and Dependencies
 2. Set Parameters
-3. Split Data
-4. Normalize Data
-5. Create Sequences
-6. Define and Compile the LSTM Model
-
-Data Splitting: Splits data into training and testing sets based on a cutoff date.
-Data Normalization: Scales features to a range between 0 and 1.
-Sequence Creation: Converts data into sequences for LSTM model input.
-Model Definition: Defines a Sequential LSTM model with dropout layers.
+3. Split Data, Data Splitting: Splits data into training and testing sets based on a cutoff date.
+4. Normalize Data, Data Normalization: Scales features to a range between 0 and 1.
+5. Create Sequences. Sequence Creation: Converts data into sequences for LSTM model input.
+6. Define and Compile the LSTM Model, Model Definition: Defines a Sequential LSTM model with dropout layers.
 Model Training: Trains the LSTM model on the training sequences.
 Model Evaluation: Predicts and evaluates the model performance on the test sequences using MSE.
+
+
+
+
+
+
