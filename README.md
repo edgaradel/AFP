@@ -9,9 +9,10 @@ The study aims to identify sentiment features and factors influencing Bitcoin's 
 Long Short-Term Memory (LSTM) model using time series data.
 
 Steps:
-Imports and Dependencies
-Set Parameters
-Split Data
-Normalize Data
-Create Sequences
-Define and Compile the LSTM Model
+
+1. Imports and Dependencies
+2. Set Parameters
+3. Split Data
+4. Normalize Data
+5. Create Sequences
+6. Define and Compile the LSTM Model
