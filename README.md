@@ -4,6 +4,8 @@ How do Market Sentiment and Investor Behaviour relate to the price of Bitcoin an
 Standard & Poors Financial Services LLC 
 July 2023-December 2023
 
+This paper examines the long-term price trend and volatility driven by key dynamics of cryptocurrency price volatility. It profiles different cryptocurrencies, such as Bitcoin, Ethereum, Ripple, Cardano, and USD Coin, since 2016. The primary goal is to identify these key dynamics and determine if market sentiment plays a role in establishing a possible pricing directionality pattern. We will then analyze market sentiment to identify a possible correlation between these drivers and observe the association with cryptocurrency price volatility. Using empirical techniques and regression analysis, this study aims to contribute to understanding the relationships between sentiment and cryptocurrency price fluctuations, with a specific emphasis on Bitcoin.
+
 The study aims to identify sentiment features and factors influencing Bitcoin's price variations using machine learning and numerical methods to identify statistically significant findings.
 
 Machine learning Strategy used:
