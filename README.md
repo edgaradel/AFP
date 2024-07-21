@@ -1,5 +1,8 @@
 # AFP Advanced Finance Project
-How do Market Sentiment and Investor Behaviour relate to the price of Bitcoin and other Crypto / 
+
+How do market sentiment and investor behaviour relate to the price and contribute to the volatility of Bitcoin and other cryptocurrencies?
+
+
 
 Standard & Poors Financial Services LLC 
 July 2023-December 2023
