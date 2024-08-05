@@ -32,7 +32,7 @@ Coding Steps:
 1. Imports and Dependencies
 2. Set Parameters
 3. Split Data: Splits data into training and testing sets based on a cutoff date.
-4. Normalize Data: Scales features to a range between 0 and 1.
+4. Normalize Data: Scales features range between 0 and 1.
 5. Create Sequences: Converts data into sequences for LSTM model input.
 6. Model Definition and Training: Defines a Sequential LSTM model with dropout layers.
 Model Training: Trains the LSTM model on the training sequences.
