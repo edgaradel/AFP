@@ -12,11 +12,16 @@ This paper examines the long-term price trend and volatility driven by key dynam
 
 The study aims to identify sentiment features and factors influencing Bitcoin's price variations and volatility using machine learning and numerical methods to identify statistically significant findings.
 
-Work using some elements of:
+Work using some research of the White Paper:
 
 News-Based Sparse Machine Learning Models for Adaptive Asset Pricing
 Liao Zhu , Haoxuan Wu, and Martin T. Wells
 Department of Statistics and Data Science, Cornell University, Ithaca, New York, USA
+
+and the Artcile
+News vs. Sentiment: Predicting Stock Returns from News Stories
+June 2017Financial Analysts Journal 73(3):1-17
+Heston, S. L., & Sinha, N. R.
 
 
 Machine learning Strategy used:
