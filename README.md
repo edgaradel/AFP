@@ -16,11 +16,13 @@ Work using some research of the White Paper:
 
 News-Based Sparse Machine Learning Models for Adaptive Asset Pricing
 Liao Zhu, Haoxuan Wu, and Martin T. Wells
-Department of Statistics and Data Science, Cornell University, Ithaca, New York, USA
+Department of Statistics and Data Science, 
+Cornell University, Ithaca, New York, USA
 
 and the Article
+
 News vs. Sentiment: Predicting Stock Returns from News Stories
-June 2017Financial Analysts Journal 73(3):1-17
+June 2017 Financial Analysts Journal 73(3):1-17
 Heston, S. L., & Sinha, N. R.
 
 In this paper, they concluded that positive and negative words in financial literature differ from words in other disciplines. Since then, many uses in different works have expanded the dictionary for better predictive results.
