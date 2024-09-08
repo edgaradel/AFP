@@ -35,8 +35,10 @@ Machine learning Strategy used:
 Develop a Long Short-Term Memory (LSTM) model using time series data. The LSTM model is defined with two LSTM layers (each with 50 units) and dropout layers (with a dropout rate of 20%) to prevent overfitting. The output layer is a dense layer with one unit. The model is compiled using the Adam optimizer and mean squared error loss function.
 
 The reason to use LSTM was because of the two main difficulties that Recurrent Neural Network (RNN)face:
+
 a) Unstable gradients
-b) A limited short-term memory that can be extended using LSTM and GRU cells.
+
+b) A limited short-term memory can be extended using LSTM and GRU cells.
 
 Coding Steps:
 
