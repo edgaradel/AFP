@@ -7,7 +7,9 @@ How do market sentiment and investor behaviour relate to the price and contribut
 Standard & Poors Financial Services LLC 
 July 2023-December 2023
 
-This paper examines the long-term price trend and volatility driven by key dynamics of cryptocurrency price volatility. It profiles different cryptocurrencies, such as Bitcoin, Ethereum, Ripple, Cardano, and USD Coin, since 2016. The primary goal is to identify these key dynamics and determine if market sentiment plays a role in establishing a possible pricing directionality pattern. We will then analyze market sentiment to identify a possible correlation between these drivers and observe the association with cryptocurrency price volatility. Using empirical techniques and regression analysis, this study aims to contribute to understanding the relationships between sentiment and cryptocurrency price fluctuations, with a specific emphasis on Bitcoin.
+
+
+This paper examines the long-term price trend and volatility driven by key dynamics of cryptocurrency price volatility. It profiles different cryptocurrencies, such as Bitcoin, Ethereum, Ripple, Cardano, and USD Coin, since 2016. The primary goal is to identify these key dynamics and determine if market sentiment plays a role in establishing a possible pricing directionality pattern. We will then analyze market sentiment to identify a potential correlation between these drivers and observe the association with cryptocurrency price volatility. Using empirical techniques and regression analysis, this study aims to contribute to understanding the relationships between sentiment and cryptocurrency price fluctuations, with a specific emphasis on Bitcoin.
 
 
 The study aims to identify sentiment features and factors influencing Bitcoin's price variations and volatility using machine learning and numerical methods to uncover statistically significant findings. An improved understanding of financial sentiment within news and social media can be crucial for a better understanding of market structures.
@@ -31,6 +33,10 @@ In this paper, they concluded that positive and negative words in financial lite
 Machine learning Strategy used:
 
 Develop a Long Short-Term Memory (LSTM) model using time series data. The LSTM model is defined with two LSTM layers (each with 50 units) and dropout layers (with a dropout rate of 20%) to prevent overfitting. The output layer is a dense layer with one unit. The model is compiled using the Adam optimizer and mean squared error loss function.
+
+The reason to use LSTM was because of the two main difficulties that Recurrent Neural Network (RNN)face:
+a) Unstable gradients
+b) A limited short-term memory that can be extended using LSTM and GRU cells.
 
 Coding Steps:
 
